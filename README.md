@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Cyber Security and other programming languages
+- 🌱 I’m currently learning Cyber Security and programming languages
 
 - 📫 How to reach me **phad2k3@gmail.com**
 
