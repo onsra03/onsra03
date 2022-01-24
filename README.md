@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Pham Ho Anh Dung</h1>
+<h3 align="center">Student at Duy Tan University🌟.</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **phad2k3@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
