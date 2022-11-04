@@ -2,7 +2,7 @@
 <h3 align="center">Student at Duy Tan University (Việt Nam).</h3>
 
 
-<p><img align="right" src="https://github.com/onsra03/onsra03/blob/main/%23pixel%20on%20Tumblr.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/onsra03/onsra03/blob/main/ezgif-4-c48bdda1b1.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Cyber Security.
