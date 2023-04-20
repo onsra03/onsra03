@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phạm Hồ Anh Dũng</h1>
-<h3 align="center">Student at Duy Tan University (Việt Nam).</h3>
+<h3 align="center">Student at Duy Tan University (Viet Nam).</h3>
 
 
 <p><img align="right" src="https://github.com/onsra03/onsra03/blob/main/ezgif-4-c48bdda1b1.gif" alt="adam-pw" /></p>
