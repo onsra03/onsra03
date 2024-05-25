@@ -51,8 +51,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3>My CVE :</h3>
 
-- CVE-2024-30506
 
-- CVE-2024-24889
+
+<details>
+<summary><h3>My CVE :</h3></summary>
+  
+  - CVE-2024-30506
+  - CVE-2024-24889
+</details> 
